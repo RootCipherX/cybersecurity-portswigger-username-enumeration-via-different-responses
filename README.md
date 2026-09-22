@@ -62,7 +62,7 @@ Accessed the lab web application ("We Like to Blog") and navigated to the authen
 Submitted arbitrary baseline credentials (`admin` / `admin`) into the login form to observe application error handling. The application rendered an explicit notification: **"Invalid username"**. This confirmed that the server validates the existence of the username before checking the password, creating an information disclosure vector.
 <br>
 
-![Initial Error Message](images/04-task-to find-login-user-pass.png)
+![Initial Error Message](images/04-task-to-find-login-user-pass.png)
 
 ---
 
